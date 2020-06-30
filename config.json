@@ -1,0 +1,26 @@
+{
+  "locals": {
+    "url": "/",
+    "name": "LiVE mag!",
+    "owner": "LiVE mag!",
+    "description": "Views and reviews by LiVE mag! contributors"
+  },
+  "plugins": [
+    "./plugins/paginator.coffee"
+  ],
+  "require": {
+    "moment": "moment",
+    "_": "underscore",
+    "typogr": "typogr"
+  },
+  "jade": {
+    "pretty": true
+  },
+  "markdown": {
+    "smartLists": true,
+    "smartypants": true
+  },
+  "paginator": {
+    "perPage": 10
+  }
+}
