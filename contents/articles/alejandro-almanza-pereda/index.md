@@ -5,14 +5,14 @@ date: 2008-10-20
 template: article.jade
 absurl: https://reviews.livemag.org/articles/alejandro-almanza-pereda/
 ---
-The Fan and the Shit   
+The Fan and the Shit  
 [Magnan Metz](http://www.magnanmetz.com/exhibitions/alejandro-almanza-pereda-the-fan-and-the-shit)
 
 Like accidents waiting to happen, Alejandro Almanza Pereda’s work challenges structural integrity as it engages the concepts of stability, risk and danger. In a second show at Magnan Emrich Contemporary, the artist has fine-tuned his iconoclastic, sculptural assemblages. Moving away from found objects and furniture, he builds on groundbreaking shifts in materials first expressed in Jeff Koons’ fish tank and Haim Steinbach’s commercial items displayed on shelves. Pereda’s new show extends his earlier balancing acts while rounding off some rough edges. <span class="more"></span> 
 
 Lighting fixtures are still part of Pereda’s trademark vocabulary as are construction tools. As previously, objects are re-contextualized in startling combinations and height is examined, as works are precariously elevated and placed “out of reach.” 
 
-In “It is for our own safety”, the cachet and elitism of red velvet ropes are telescoped and spoofed at the same time. By making the metal poles 10 feet high, Pereda amplifies the materiality while rarifying the vision. Above us, the seductive ropes sequester a sparkling chandelier. The silver, red and crystal are imminently appealing, evoking class and exclusivity and exuding a faux fairy tale aura. Yet a visceral feeling of smallness, rejection and insecurity falls on the viewer as he or she walks between the poles and under the chandelier. 
+In “It is for our own safety”, the cachet and elitism of red velvet ropes are telescoped and spoofed at the same time. By making the metal poles 10 feet high, Pereda amplifies the materiality while rarifying the vision. Above us, the seductive ropes sequester a sparkling chandelier. The silver, red and crystal are imminently appealing, evoking class and exclusivity and exuding a faux fairy tale aura. Yet a visceral feeling of smallness, rejection and insecurity falls on the viewer as he or she walks between the poles and under the chandelier.
 
 Much of Pereda’s muscle comes from his ability to symbolically charge the atmosphere and mirror emotional states. Nowhere is this more apparent than in the central work of this two-part exhibit. Based on the game of Rocks, Scissors and Paper, items are ensconced in a glass grid. Shiny metal clips hold the transparent squares and rectangles together. Evoking domesticity, industry, panic, violence, life and stagnation, the different things inside create a schismatic dialogue. 
 
