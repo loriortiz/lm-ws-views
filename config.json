@@ -1,8 +1,8 @@
 {
   "locals": {
     "url": "/",
-    "name": "LiVE mag!",
-    "owner": "LiVE mag!",
+    "name": "LiVE Mag! Views",
+    "owner": "LiVE Mag!",
     "description": "Views and reviews by LiVE mag! contributors"
   },
   "plugins": [

@@ -10,11 +10,11 @@ Barry Wallenstein’s latest collection of verse continues his pioneering foray 
   
 <figure>
   <img src="bwbook.jpg" class="book" alt="cover">
-  <div>
+  <figcaption>
 *At the Surprise Hotel and other poems*   
 by Barry Wallenstein    
 [Ridgeway Press](https://www.spdbooks.org/Products/9781564391414/at-the-surprise-hotel-and-other-poems.aspx)
-  </div>
+  </figcaption>
 </figure>
 
 Wallenstein’s *oeuvre* is truly performance poetry, incorporating the angst and cadences of jazz into bittersweet riffs that acknowledge our human foibles. Now, as a mature auteur, his work remains unjaded and authentic while tackling some stark realities. Instead of churning pity or bitterness, he recycles his reflections into insights.

@@ -11,7 +11,10 @@ html(lang='en')
         block title
           = locals.name
       link(rel='alternate', href=locals.url+'/feed.xml', type='application/rss+xml', title=locals.description)
-      <link rel="stylesheet" href="https://use.typekit.net/bkv6oxt.css">
+      link(rel="stylesheet" href="https://use.typekit.net/bkv6oxt.css")
+      link(rel='preconnect' href='https://fonts.googleapis.com')
+      link(rel='preconnect' href='https://fonts.gstatic.com' crossorigin='')
+      link(href='https://fonts.googleapis.com/css2?family=Archivo:ital,wdth,wght@0,104,320..573;1,104,320&amp;display=swap' rel='stylesheet' type='text/css')
       link(rel='stylesheet', href=contents.css['reset.css'].url)
       link(rel='stylesheet', href=contents.css['main.css'].url)
       meta(name="HandheldFriendly", content="true")
@@ -23,26 +26,27 @@ html(lang='en')
   body(class=bodyclass)
     header.site-header
         block site-header
-          .logo
-            h1
-              a(href='http://www.livemag.org')
-                | LiVE
+          .header-inner
+            .logo
+              h1
+                a(href='https://livemag.org')
+                  | LiVE
+                  br
+                  | Mag!
+            .btn.subtitle
+              a(href="/")
+                | Views
                 br
-                | Mag!
-          .btn.subtitle
-            a(href="/")
-              | Views
-              br
-              | Reviews
-          ul
-            li
-              a.nav(href='https://livemag.org/support/') join
-            li
-              a.nav(href='https://livemag.org/about.html') about
-            li
-              a.nav(href='https://livemag.org/videos.html') videos
-            li
-              a.nav(href='https://livemag.org/issues.html') issues
+                | Reviews
+            ul
+              li
+                a.nav(href='https://livemag.org/subscribe.html') join
+              li
+                a.nav(href='https://livemag.org/about.html') about
+              li
+                a.nav(href='https://livemag.org/videos.html') videos
+              li
+                a.nav(href='https://store.livemag.org/') store
     div#content
       div.content-wrap
         block content
@@ -53,6 +57,4 @@ html(lang='en')
           section.about
             !=contents['about.md'].html
           section.copy
-            p &copy; #{ new Date().getFullYear() } #{ locals.owner } &mdash; powered by&nbsp;
-              a(href='https://github.com/jnordberg/wintersmith') Wintersmith
-              //- please leave the "powered by" if you use the design
+            p &copy; #{ new Date().getFullYear() } #{ locals.owner }
