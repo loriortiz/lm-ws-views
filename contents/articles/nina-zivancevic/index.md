@@ -4,7 +4,7 @@ author: "Jessica Slote"
 date: 2022-07-11
 template: article.jade
 image: zivancevic.jpg
-absurl: https://reviews.livemag.org/articles/diane-diprima
+absurl: https://reviews.livemag.org/articles/nina-zivancevic
 ---
 
 #### Nina Zivancevic's Roller-Skating Notes
