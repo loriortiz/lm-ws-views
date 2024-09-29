@@ -24,7 +24,7 @@ by Nina Zivancevic
 If you know Nina “Zee” or heard her read her poetry, you will recognize her light touch in this latest book of poems. Zee’s voice moves like Yeats’ “long-legged fly”—skating restlessly across the surface of the troubled waters of the late 20th and early 21st century. Whether documenting a bitter truth, delivering a rapier-stab of irony, or eulogizing a lost friend or lover, her poems flare up like the burning ember of a cigarette shared in the dark.
 
 The title poem, “Roller-Skating Notes” sets the tone:
-  <pre><em>                 IF YOU wanna skate,…
+  <pre><em>                 IF YOU wanna skate, …
                 YOU HAVE TO HAVE AN ATTITUDE</em></pre>
 
 And Nina Zee has attitude galore. With impassioned imagery (and a sly touch of irony), she can illuminate the inner sanctum of friendship and love. From “Instead of a Photo or a Drawing, on Christmas Evening”:
@@ -37,7 +37,7 @@ And Nina Zee has attitude galore. With impassioned imagery (and a sly touch of i
                 Dangerous to reach and lost to my touch
 </em></pre><pre><em>
                 You dwelled in it for quite a while,
-                Not paying the rent…..
+                Not paying the rent …..
 
 </em></pre>
 
@@ -45,11 +45,11 @@ Humor and irony are always lurking between the lines, under the covers, or aroun
 <pre><em>                Whenever I look at you
                 You look at me
                 Whenever you start to cough
-                I sneeze…
+                I sneeze …
                 You talk history of ideas
                 I talk the ideas in history
                 I like a big black cock
-                You like it too….
+                You like it too ….
 
 </em></pre>
 
@@ -70,7 +70,7 @@ As an expat/emigrée/immigrant herself (“what is a girl/without her home count
                 arrested
                 8 months of prison
                 As it is against the 2012 law to help
-                Migrants in distress….
+                Migrants in distress ….
 
 </em></pre>
 
@@ -81,10 +81,10 @@ One poem is dedicated to the late David Graeber, author of the posthumously-publ
                               aboriginal,
                 Ethical ground where they feed us to the sharks and
                               larks
-                disappearing in light dusk of the British lakes?....
+                disappearing in light dusk of the British lakes? ...
                 …As if the algebra of heartache had
                 To knock down every wall
-                And every barbed wire we ran into….
+                And every barbed wire we ran into ….
 
 </em></pre>
 

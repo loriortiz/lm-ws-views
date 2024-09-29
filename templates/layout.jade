@@ -20,10 +20,15 @@ html(lang='en')
       meta(name="HandheldFriendly", content="true")
       link(rel="icon" type="image/x-icon" href="/favicon.ico")
       unless locals.url
-      meta(property='og:url', content='page.metadata.url')
-      meta(property='og:image', content='page.metadata.image')
+      meta(property='og:url', content='article.url')
+      meta(property='og:image', content='article.image')
       meta(property='og:type', content='article')
       meta(property='fb:app_id', content='1041080742758692')
+      meta(property='twitter:card', content='summary')
+      meta(property='twitter:title', content='article.title')
+      meta(property='twitter:description', content='article.description')
+      if image
+      meta(property='twitter:image', content='article.image')
   body(class=bodyclass)
     header.site-header
         block site-header
