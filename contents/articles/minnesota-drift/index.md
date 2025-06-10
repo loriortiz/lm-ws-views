@@ -20,6 +20,6 @@ WryAwry 2021
 
 Exquisite still-lifes done windmill style. Including (blush) “snatch power.” With cover by Donna Dennis! (A Minnesotan).
 
->“basket moon &emsp; &nbsp; &emsp;  &nbsp;     dream knocks.”
+>“basket moon &nbsp; &nbsp; &nbsp; dream knocks.”
 
 You'll be answering big time.
