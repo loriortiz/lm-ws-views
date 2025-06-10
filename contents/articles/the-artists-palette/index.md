@@ -31,10 +31,7 @@ As for the fascinating history of artists’ pigments and painting mediums, pain
 
  Loske has found portraits with palettes through the ages that advance her compelling case that the palette tells us something about the art, the artists, and their time. The physical palette, which had always been emblematic of the artist at work, all but disappears in the final “Liberated” section. Today’s artists may mix colors on anything nearby, from a disposable plastic lid to the wall itself. Or, as in Kerry James Marshall’s large portraits with supersized palettes, the representative object takes on surreal, larger-than-life dimensions.
 
-<!-- ![Kerry James Marshall](marshallTest.jpg)<figcaption>**Kerry James Marshall**, Untitled, 2008, acrylic on PVC panel 72 3/4 x 61 i/4 in. Image Courtesy of  Harvard Art Museums/Fogg Museum, Richard Norton Memorial Fund and purchase through the generosity of Nancy B. Tieken. © Kerry James Marshall. Photo: © President and Fellows of Harvard College
-</figcaption> -->
-
-![Kerry James Marshall](marshall.jpg)<figcaption>**Kerry James Marshall**, Untitled, 2009, acrylic on PVC panel 61 1/8 × 72 7/8 × 3 7/8 in. Image Courtesy of Yale University Art Gallery. Purchased with the Janet and Simeon Braguin Fund and a gift from Jacqueline L. Bradley, B.A. 1979.
+![Kerry James Marshall](marshall.jpg)<figcaption>**Kerry James Marshall**, *Untitled*, 2009, acrylic on PVC panel 61 1/8 × 72 7/8 × 3 7/8 in.  © Kerry James Marshall. Courtesy the artist and David Zwirner, London. Image Courtesy of Yale University Art Gallery. Purchased with the Janet and Simeon Braguin Fund and a gift from Jacqueline L. Bradley, B.A. 1979.
 </figcaption>
 
   Loske shares informative images of portraits and self-portraits with palettes,  and images of artists’ actual paint-encrusted palettes and preserved studio spaces. She also quotes from notes or letters, and even bills for supplies, to posit how color choices supported expressive aims.
